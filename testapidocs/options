@@ -1,0 +1,24 @@
+-classpath
+'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/core/target/classes:/var/lib/jenkins/jobs/Quackbot (dev)/workspace/core/target/test-classes:/var/lib/jenkins/.m2/repository/org/objenesis/objenesis/1.0/objenesis-1.0.jar:/var/lib/jenkins/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-asm/3.1.2.RELEASE/spring-asm-3.1.2.RELEASE.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar:/var/lib/jenkins/.m2/repository/junit/junit/4.10/junit-4.10.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-aop/3.1.2.RELEASE/spring-aop-3.1.2.RELEASE.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-test/3.1.2.RELEASE/spring-test-3.1.2.RELEASE.jar:/var/lib/jenkins/.m2/repository/ch/qos/logback/logback-classic/1.0.6/logback-classic-1.0.6.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-expression/3.1.2.RELEASE/spring-expression-3.1.2.RELEASE.jar:/var/lib/jenkins/.m2/repository/com/beust/jcommander/1.12/jcommander-1.12.jar:/var/lib/jenkins/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-context/3.1.2.RELEASE/spring-context-3.1.2.RELEASE.jar:/var/lib/jenkins/.m2/repository/org/slf4j/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6.jar:/var/lib/jenkins/.m2/repository/org/testng/testng/6.7/testng-6.7.jar:/var/lib/jenkins/.m2/repository/ch/qos/logback/logback-core/1.0.6/logback-core-1.0.6.jar:/var/lib/jenkins/.m2/repository/org/mockito/mockito-core/1.9.5-rc1/mockito-core-1.9.5-rc1.jar:/var/lib/jenkins/.m2/repository/cglib/cglib/2.2.2/cglib-2.2.2.jar:/var/lib/jenkins/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/var/lib/jenkins/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar:/var/lib/jenkins/.m2/repository/org/projectlombok/lombok/0.11.2/lombok-0.11.2.jar:/var/lib/jenkins/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/var/lib/jenkins/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar:/var/lib/jenkins/.m2/repository/org/pircbotx/pircbotx/1.7/pircbotx-1.7.jar:/var/lib/jenkins/.m2/repository/asm/asm/3.3.1/asm-3.3.1.jar:/var/lib/jenkins/.m2/repository/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.jar'
+-encoding
+'UTF-8'
+-public
+-sourcepath
+'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/core/target/generated-sources/delombok'
+-author
+-bottom
+'Copyright &#169; 2010-2012 Leon Blakey. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/core/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Quackbot-Core 3.5-SNAPSHOT Test API'
+-linkoffline
+'http://download.oracle.com/javase/1.5.0/docs/api' '/var/lib/jenkins/jobs/Quackbot (dev)/workspace/core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Quackbot-Core 3.5-SNAPSHOT Test API'
