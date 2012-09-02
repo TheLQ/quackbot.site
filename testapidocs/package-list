@@ -1,1 +1,5 @@
-org.quackbot.site
+org.quackbot.dao
+org.quackbot.dao.hibernate
+org.quackbot.hooks
+org.quackbot.hooks.core
+org.quackbot.hooks.loaders
