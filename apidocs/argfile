@@ -1,2 +1,3 @@
-'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/impl-example/target/generated-sources/delombok/org/quackbot/impl/plugins/JavaTest.java'
-'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/impl-example/target/generated-sources/delombok/org/quackbot/impl/ExampleMain.java'
+'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/site-wicket/target/generated-sources/delombok/org/quackbot/site/QuackbotApplication.java'
+'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/site-wicket/target/generated-sources/delombok/org/quackbot/site/HomePage.java'
+'/var/lib/jenkins/jobs/Quackbot (dev)/workspace/site-wicket/target/generated-sources/delombok/org/quackbot/site/QuackbotPage.java'
