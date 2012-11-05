@@ -1,5 +1,10 @@
+org.quackbot
 org.quackbot.dao
-org.quackbot.dao.hibernate
+org.quackbot.dao.model
+org.quackbot.err
+org.quackbot.events
+org.quackbot.gui
 org.quackbot.hooks
 org.quackbot.hooks.core
+org.quackbot.hooks.java
 org.quackbot.hooks.loaders
